@@ -1,0 +1,43 @@
+body {
+	background: url(../imgs/background.jpg) no-repeat center center fixed;
+	background-size: cover;
+}
+.heading {
+	color: white;
+	margin-left: 325px;
+}
+.sub-heading {
+	color: white;
+	margin-left: 20px;
+}
+.personal-statement {
+	color: white;
+	margin-left: 20px;
+}
+.user-image {
+	height: 150px;
+	width: 150px;
+	margin-left: 150px;
+}
+.navbar{
+	color: white;
+}
+.navbar-title {
+	color: white;
+}
+.navbar-brand {
+	float: left;
+}
+.nav-link {
+	color: white;
+	float: left;
+}
+.experience {
+	color: white;
+	margin-left: 20px;
+}
+.work-experience {
+	color: white;
+	font-size: small;
+	margin-left: 20px
+}

@@ -1,0 +1,20 @@
+.navbar{
+	color: white;
+}
+.navbar-title {
+	color: white;
+}
+.navbar-brand {
+	float: left;
+}
+.nav-link {
+	color: white;
+	float: left;
+}
+nav a:hover{
+	font-size: 50px
+}
+.image {
+	height: 200px;
+	width: 200px;
+}
